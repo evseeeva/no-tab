@@ -10,5 +10,6 @@ Design - [link](https://www.figma.com/design/WiWwZDxkq0kbGrHX9daIM5/WEB-PRO-NoTa
     - Semantic html
 - CSS 3 
     - CSS flexbox 
+    - SVG sprite
     - BEM naming
     - Animation with @keyframes
